@@ -15,7 +15,7 @@ Who all are involved while giving estimates for one particular features?
 Ans -Refer notes 
 
 # Que 3: What is new in Interfaces in Java 8?
-Ans - 
+Ans - Java 8 interface changes include static methods and default methods in interfaces. Prior to Java 8, we could have only method declarations in the interfaces. But from Java 8, we can have default methods and static methods in the interfaces.Refer this https://www.journaldev.com/2752/java-8-interface-changes-static-method-default-method
 
 What all collections you have used? What is the need of data structures?
 
