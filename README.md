@@ -17,331 +17,302 @@ Ans -Refer notes
 # Que 3: What is new in Interfaces in Java 8?
 Ans - Java 8 interface changes include static methods and default methods in interfaces. Prior to Java 8, we could have only method declarations in the interfaces. But from Java 8, we can have default methods and static methods in the interfaces.Refer this https://www.journaldev.com/2752/java-8-interface-changes-static-method-default-method
 
-What all collections you have used? What is the need of data structures?
+# Que 4: What all collections you have used? What is the need of data structures?
 
-What is difference between ArrayList, LinkedList, Map(traversal order), Set?
+# Que 5: What is difference between ArrayList, LinkedList, Map(traversal order), Set?
 
-How HashMap is implemented internally? How to improve performance if collision occurs? What new change is made in Java 8 for performance improvement of Map?
-What is the difference between ConcurrentHashMap and HashTable? What is instance level lock and static lock for thread safety?
+# Que 6: How HashMap is implemented internally? How to improve performance if collision occurs? What new change is made in Java 8 for performance improvement of Map?
+# Que 7: What is the difference between ConcurrentHashMap and HashTable? What is instance level lock and static lock for thread safety?
 
-Time Complexity in Big-O notation for searching in collections?
+# Que 8: Time Complexity in Big-O notation for searching in collections?
 
-How you make access to Map thread-safe?
+# Que 9: How you make access to Map thread-safe?
 
-What are the advantages of using Sparse family DS? (SparseArray)
+# Que 10: What are the advantages of using Sparse family DS? (SparseArray)
 
-Explain Design patterns you have worked on?
+# Que 11: Explain Design patterns you have worked on?
 
-Write singleton class? Write thread-safe singleton? What is volatile and why to use it with DCL(Double Checked Lock) implementation?
+# Que 12: Write singleton class? Write thread-safe singleton? What is volatile and why to use it with DCL(Double Checked Lock) implementation?
 
-What is immutability? Write Immutable class?
+# Que 13: What is immutability? Write Immutable class?
 
-Explain SOLID principle and How you implement it?
+# Que 14: Explain SOLID principle and How you implement it?
 
-What is Certificate Pinning and how it works?
+# Que 15: What is Certificate Pinning and how it works?
 
-Where will you save key used for signing/encrypting local data?
+# Que 16: Where will you save key used for signing/encrypting local data?
 
-How you secure your application? (Proguarding, API auth token)
+# Que 17: How you secure your application? (Proguarding, API auth token)
 
-What is Material Design? Which components you have used?
+# Que 18: What is Material Design? Which components you have used?
 
-Difference between RecyclerView and ListView?
+# Que 19: Difference between RecyclerView and ListView?
 
-Asked to design simple layout for given UI? Question was based on LinearLayout weight distribution.
+# Que 20: Asked to design simple layout for given UI? Question was based on LinearLayout weight distribution.
 
-Lifecycle events when transitioning from one Activity to other Activity.
+# Que 21: Lifecycle events when transitioning from one Activity to other Activity.
 
-Need of defining custom permission while communicating between apps.
+# Que 22: Need of defining custom permission while communicating between apps.
 
-JIRA tool, Agile methodology,
+# Que 23: JIRA tool, Agile methodology,
 
-GIT basic commands and difference between git merge and rebase.
+# Que 24: GIT basic commands and difference between git merge and rebase.
 
-Features of Kotlin you like the most. And why?
+# Que 25: Features of Kotlin you like the most. And why?
 
-Explain MVP and why use it? Have you used Architecture components?
+# Que 26: Explain MVP and why use it? Have you used Architecture components?
 
-Explain MVVM? Specifically what is VM?
+# Que 27: Explain MVVM? Specifically what is VM?
 
-Is it necessary to handle onError() in subscriber?
+# Que 28: Is it necessary to handle onError() in subscriber?
 
-What is observable? Types?
+# Que 29: What is observable? Types?
 
-Explain unit testing? Write test for presenter to test api response scenario?
+# Que 30: Explain unit testing? Write test for presenter to test api response scenario?
 
-Define your project structure
+# Que 31: Define your project structure
 
-MVC vs MVP
+# Que 32: MVC vs MVP
 
-Why you have selected your architecture to MVP?
+# Que 33: Why you have selected your architecture to MVP?
 
-TDD approach
+# Que 34: TDD approach
 
-Tool for end to end testing
+# Que 35: Tool for end to end testing
 
-Which components you have used from latest material design?
+# Que 36: Which components you have used from latest material design?
 
-What is dagger? Why we use it?
+# Que 37: What is dagger? Why we use it?
 
-Recyclerview vs Listview
+# Que 38: Java 8 features which is included in Android
 
-Java 8 features which is included in Android
+# Que 39: What is lambda functions and benefits of lambda functions?
 
-What is lambda functions and benefits of lambda functions?
+# Que 40: Does interface have private variable?
 
-Does interface have private variable?
+# Que 41: Static method overload from interface?
 
-Static method overload from interface?
+# Que 42: Output of multiple Interface with same method name?
 
-Output of multiple Interface with same method name?
+# Que 43: What are the changes 7.0 in respect of compilation (ART/JIT)?
 
-What are the changes 7.0 in respect of compilation (ART/JIT)?
+# Que 44: If my app has not handled permissions how my app react on 6.0 and upper version?
 
-If my app has not handled permissions how my app react on 6.0 and upper version?
+# Que 45: Doze mode
 
-Doze mode
+# Que 46: Kotlin features
 
-Kotlin features
+# Que 47: What is Certificate Pinning and how it works?
 
-What is Certificate Pinning and how it works?
+# Que 48: Explain asymmetric and symmetric encryption?
 
-Explain asymmetric and symmetric encryption?
+# Que 49: Basic OOPS concept. Explain Abstraction, Inheritance, Polymorphism & Encapsulation with example?
 
-Basic OOPS concept. Explain Abstraction, Inheritance, Polymorphism & Encapsulation with example?
+# Que 50: Difference between Abstract class and Interface ?
 
-Difference between Abstract class and Interface ?
+# Que 51: What is String pooling and how does it work ? Where in memory is String pool ?
 
-What is String pooling and how does it work ? Where in memory is String pool ?
+# Que 52: What are immutable classes in Java ? How can you make one ?
 
-What are immutable classes in Java ? How can you make one ?
+# Que 53: When and where should Arrays and ArrayList be used ? Difference between arrays and arraylist ? Working of ArrayList internally ?
 
-When and where should Arrays and ArrayList be used ? Difference between arrays and arraylist ? Working of ArrayList internally ?
+# Que 54: In a single traverse determine the centre of a LinkedList ?
 
-In a single traverse determine the centre of a LinkedList ?
+# Que 55: Collection Frameworks used ? Difference between Set,List,Map ?
 
-Collection Frameworks used ? Difference between Set,List,Map ?
+# Que 56: What is Vector?
 
-What is Vector?
+# Que 57: How ArrayList and Vector size Expands?
 
-How ArrayList and Vector size Expands?
+# Que 58: Design Pattern ?
 
-Design Pattern ?
+# Que 59: HashMap and its implementation internally ? What are ConcurrentHashMap ? How do ConcurrentHashMap differ from HashTable ? Suitable conditions to use HashTable and ConcurrentHashMap ? What is new in Hashmap wrt Java 8 ?
 
-HashMap and its implementation internally ? What are ConcurrentHashMap ? How do ConcurrentHashMap differ from HashTable ? Suitable conditions to use HashTable and ConcurrentHashMap ? What is new in Hashmap wrt Java 8 ?
+# Que 60: What are FailSafe and FailFast iterators ? What is ArrayList , is it FailSafe or FailFast ?
 
-What are FailSafe and FailFast iterators ? What is ArrayList , is it FailSafe or FailFast ?
+# Que 61: What are methods of Object class ? What is equals() method ? What is hashcode() method ? Is it necessary to implement hashcode() method if we implement equals() method ?
 
-What are methods of Object class ? What is equals() method ? What is hashcode() method ? Is it necessary to implement hashcode() method if we implement equals() method ?
+# Que 62: Marker Interfaces ? Serializable implementation internally ?
 
-Marker Interfaces ? Serializable implementation internally ?
+# Que 63: Activity LifeCycle ? Lifecycle events when going from one activity to another ? Lifecycle events for Activity and Fragment when Fragment is added on top of Activity ?
 
-Activity LifeCycle ? Lifecycle events when going from one activity to another ? Lifecycle events for Activity and Fragment when Fragment is added on top of Activity ?
+# Que 64: startActivityforResult() equivalent for Fragments ?
 
-startActivityforResult() equivalent for Fragments ?
-Launchmode in Android ? Explain with example ?
+# Que 65: Launchmode in Android ? Explain with example ?
 
-Which method will invoke when we called SingleTop,SingleInstance and SingleTask Activity?
+# Que 66: Which method will invoke when we called SingleTop,SingleInstance and SingleTask Activity?
 
-RecyclerView vs List View ?
+# Que 67: What are different Layout managers used in RecyclerView?
 
-What are different Layout managers used in RecyclerView?
+# Que 68: What databases have you used?
 
-What databases have you used?
+# Que 69: How will you store sensitive data in Android ?
 
-How will you store sensitive data in Android ?
+# Que 70: How will you ensure that your app is completely secure ?
 
-How will you ensure that your app is completely secure ?
+# Que 71: Certificate Pinning vs Self Signed vs Public Key Pinning ?
 
-Certificate Pinning vs Self Signed vs Public Key Pinning ?
+# Que 72: Kotlin features ? Which features you like ? Kotlin Data Classes ?
 
-Kotlin features ? Which features you like ? Kotlin Data Classes ?
+# Que 73: What is RxJava ?
 
-What is RxJava ?
+# Que 74: Basic OOPS concept. Explain Abstraction, Inheritance, Polymorphism & Encapsulation with example?
 
-Basic OOPS concept. Explain Abstraction, Inheritance, Polymorphism & Encapsulation with example?
+# Que 75: Difference between Abstract class and Interface ? What is new in Interface wrt Java 8 ?
 
-Difference between Abstract class and Interface ? What is new in Interface wrt Java 8 ?
+# Que 76: Why default methods are provided in Interface in Java 8 ? What are its uses? How is it different from abstract class method that have implementation ?
 
-Why default methods are provided in Interface in Java 8 ? What are its uses? How is it different from abstract class method that have implementation ?
+# Que 77: What is String pooling and how does it work ? Where in memory is String pool ?
 
-What is String pooling and how does it work ? Where in memory is String pool ?
+# Que 78: What are immutable classes in Java ? How can you make one ?
 
-What are immutable classes in Java ? How can you make one ?
+# Que 79: When and where should Arrays and ArrayList be used ? Difference between arrays and arraylist ? Working of ArrayList internally ?
 
-When and where should Arrays and ArrayList be used ? Difference between arrays and arraylist ? Working of ArrayList internally ?
+# Que 80: In a single traverse determine the centre of a LinkedList ?
 
-In a single traverse determine the centre of a LinkedList ?
+# Que 81: Collection Frameworks used ? Difference between Set,List,Map ?
 
-Collection Frameworks used ? Difference between Set,List,Map ?
+# Que 82: HashMap and its implementation internally ? What are ConcurrentHashMap ? How do ConcurrentHashMap differ from HashTable ? Suitable conditions to use HashTable and ConcurrentHashMap ? What is new in Hashmap wrt Java 8 ?
 
-HashMap and its implementation internally ? What are ConcurrentHashMap ? How do ConcurrentHashMap differ from HashTable ? Suitable conditions to use HashTable and ConcurrentHashMap ? What is new in Hashmap wrt Java 8 ?
+# Que 83: What are FailSafe and FailFast iterators ? What is ArrayList , is it FailSafe or FailFast ?
 
-What are FailSafe and FailFast iterators ? What is ArrayList , is it FailSafe or FailFast ?
+# Que 84: What are methods of Object class ? What is equals() method ? What is hashcode() method ? Is it necessary to implement hashcode() method if we implement equals() method ?
 
-What are methods of Object class ? What is equals() method ? What is hashcode() method ? Is it necessary to implement hashcode() method if we implement equals() method ?
+# Que 85: What is Singleton class ? How to make it thread safe ? Use of volatile keyword ? How is volatile keyword useful while creating a Singleton class with double locking ?
 
-What is Singleton class ? How to make it thread safe ? Use of volatile keyword ? How is volatile keyword useful while creating a Singleton class with double locking ?
+# Que 86: Marker Interfaces ? Serializable implementation internally ?
 
-Marker Interfaces ? Serializable implementation internally ?
+# Que 87: Activity LifeCycle ? Lifecycle events when going from one activity to another ? Lifecycle events for Activity and Fragment when Fragment is added on top of Activity ?
 
-Activity LifeCycle ? Lifecycle events when going from one activity to another ? Lifecycle events for Activity and Fragment when Fragment is added on top of Activity ?
+# Que 88: startActivityforResult() equivalent for Fragments ?
 
-startActivityforResult() equivalent for Fragments ?
+# Que 89: How will you store sensitive data in Android ?
 
-Launchmode in Android ? Explain with example ?
+# Que 90: How will you ensure that your app is completely secure ?
 
-RecyclerView vs List View ?
+# Que 91: Certificate Pinning vs Self Signed vs Public Key Pinning ?
 
-How will you store sensitive data in Android ?
+# Que 92: MVP and why do we require it ?
 
-How will you ensure that your app is completely secure ?
+# Que 93: Material Design components used by you ?
 
-Certificate Pinning vs Self Signed vs Public Key Pinning ?
+# Que 94: Difference between Encryption Encoding and Hashing ?
 
-Kotlin features ? Which features you like ? Kotlin Data Classes ?
+# Que 95: Brief about previous project?
 
-What is RxJava ?
+# Que 96: What are android components you used in your application?
 
-MVP and why do we require it ?
-Material Design components used by you ?
+# Que 97: Which networking library used ?
 
-Difference between Encryption Encoding and Hashing ?
+# Que 98: Activity life cycle
 
-Brief about previous project?
+# Que 99: What is service ? how it works and its use cases?
 
-What are android components you used in your application?
+# Que 100: How to persist data across orientation in activity ?
 
-Which networking library used ?
+# Que 101: How do you start working on any app from start ( i.e requirement gathering and all stuff)
 
-Activity life cycle
+# Que 102: How you decide which design pattern to follow ?
 
-What is service ? how it works and its use cases?
+# Que 103: Design patterns used in code ?
 
-How to persist data across orientation in activity ?
+# Que 104: Which design pattern retrofit uses ? and How ?
 
-MVP
+# Que 105: What is use of Gson library ?
 
-How do you start working on any app from start ( i.e requirement gathering and all stuff)
+# Que 106: Broadcast Receiver
 
-How you decide which design pattern to follow ?
+# Que 107: SingleTon design pattern ? Does Application class in android is by default SingleTon ?
 
-Design patterns used in code ?
+# Que 108: How will you secure data over the network call ?
 
-Which design pattern retrofit uses ? and How ?
+# Que 109: Encryption ? types ? detailed explanation ?
 
-What is use of Gson library ?
+# Que 110: How you secure data with your own HTTP client ( without using OkkHttp or Volley or Retrofit )
 
-Broadcast Receiver
+# Que 111: Public key pinning and certificate key pinning working in detail with pros and cons of each ?
 
-SingleTon design pattern ? Does Application class in android is by default SingleTon ?
+# Que 112: How you will pin certificate if 4 servers are there and they have different certificates ?
 
-How will you secure data over the network call ?
+# Que 113: Unit test cases ? Brief explanation about Expreso and Mockito ?
 
-Encryption ? types ? detailed explanation ?
+# Que 114: How will you store key used for encryption ?
 
-How you secure data with your own HTTP client ( without using OkkHttp or Volley or Retrofit )
+# Que 115: Types of encryption asymmetric and symmetric ?
 
-Public key pinning and certificate key pinning working in detail with pros and cons of each ?
+# Que 116: Difference between Authorisation and Authentication ?
 
-How you will pin certificate if 4 servers are there and they have different certificates ?
+# Que 117: What to use to do background task ?
 
-Kotlin basics
+# Que 118: ConstraintLayout ? why to use it ?
 
-Unit test cases ? Brief explanation about Expreso and Mockito ?
+# Que 119: How handler works ? explain one scenario where you used it ?
 
-How will you store key used for encryption ?
+# Que 120: What is intent and its uses ?
 
-Types of encryption asymmetric and symmetric ?
+# Que 121: JobScheduler ? Use case ?
 
-Difference between Authorisation and Authentication ?
+# Que 122: Have you worked on Firebase or Realm Databases frameworks (in short NoSql databases) ?
 
-What to use to do background task ?
+# Que 123: Does Realm support automatic sync like Firebase i.e automatic updating of data ?
 
-ConstraintLayout ? why to use it ?
+# Que 124: How do your app will support multiple devices ( expects layouts creation, resource folders like dimen, styles all in detail ) ?
 
-How handler works ? explain one scenario where you used it ?
+# Que 125: What are criterias to select JPG or PNG or .9.Patch or SVG ? Scenarios where we should use PNG or JPG or SVG or .9.Patch images ?
 
-What is intent and its uses ?
+# Que 126: OOPs concepts (Polymorphism, Inheritance)
 
-JobScheduler ? Use case ?
+# Que 127: How to pass data from one fragment to another fragment ?
 
-Have you worked on Firebase or Realm Databases frameworks (in short NoSql databases) ?
-
-Does Realm support automatic sync like Firebase i.e automatic updating of data ?
-
-How do your app will support multiple devices ( expects layouts creation, resource folders like dimen, styles all in detail ) ?
-
-What are criterias to select JPG or PNG or .9.Patch or SVG ? Scenarios where we should use PNG or JPG or SVG or .9.Patch images ?
-
-OOPs concepts (Polymorphism, Inheritance)
-
-How to pass data from one fragment to another fragment ?
-
-How to implement search functionality without using RXjava Debounce operator ?
+# Que 128: How to implement search functionality without using RXjava Debounce operator ?
 Whether to use Observers or Interfaces ? use cases ?
 
-Tell me about yourself
+# Que 129: Features in android O
 
-What is doze mode and how it works?
+# Que 130: Lifecycle events when transitioning from one Activity to other Activity.
 
-Features in android O
+# Que 131: How to handle screen orientation while using asynctask?
 
-Explain Singleton design pattern
+# Que 132: How savedInstanceState & restoreInstanceState works?
 
-Lifecycle events when transitioning from one Activity to other Activity.
+# Que 133: Which architecture you are using while developing?
 
-How to handle screen orientation while using asynctask?
+# Que 134: How to communicate between two applications?
 
-How savedInstanceState & restoreInstanceState works?
+# Que 135: How to persist data in android?
 
-Which architecture you are using while developing?
+# Que 136: How to store sensitive data in android
 
-Explain MVP and benefits of MVP
+# Que 137: How dagger2 works?
 
-How to communicate between two applications?
+# Que 138: How to create object dynamically using Dagger2 ?
 
-How to persist data in android?
+# Que 139: How to create secure connection?
 
-How to store sensitive data in android
+# Que 140: What is certificate pinning?
 
-How dagger2 works?
+# Que 141: There are 2 modules - module1 & module2. These are added as dependency in your application. In those modules you are calling webservice using retrofit. But retrofit object is initialized in application. Then how you can use retrofit object in modules?
 
-How to create object dynamically using Dagger2 ?
+# Que 142: What are primary things you need to consider while developing sdk/library?
 
-How to create secure connection?
+# Que 143: Difference between jar and aar
 
-What is certificate pinning?
+# Que 144: Explain SSL handshake
 
-Explain Rxjava
+# Que 145: How does public-private keys work
 
-There are 2 modules - module1 & module2. These are added as dependency in your application. In those modules you are calling webservice using retrofit. But retrofit object is initialized in application. Then how you can use retrofit object in modules?
+# Que 146: Explain HTTPS communication in steps
 
-What are primary things you need to consider while developing sdk/library?
+# Que 147: Use of onSaveInstanceState & onRestoreInstanceState, there is bundle in onCreate() as well, then what is a need of onRestoreInstanceState method?
 
-Have you ever worked on Kotlin?
+# Que 148: Write a program to check abcdeffedcba, what is the time complexity?
 
-What are the new features in Kotlin?
+# Que 149: Service types, when to use which service? how to stop service.
 
-Explain Java8 features
+# Que 150: How to communicate from service to activity.
 
-Difference between jar and aar
+# Que 151: Suppose service has called the web service, but the activity that started the service is no longer there. How to pass the data when activity gets started again.
 
-Explain SSL handshake
+# Que 152: What will happen if running service is started again?
 
-How does public-private keys work
-
-Explain HTTPS communication in steps
-
-Use of onSaveInstanceState & onRestoreInstanceState, there is bundle in onCreate() as well, then what is a need of onRestoreInstanceState method?
-Write a program to check abcdeffedcba, what is the time complexity?
-
-Service types, when to use which service? how to stop service.
-
-How to communicate from service to activity.
-
-Suppose service has called the web service, but the activity that started the service is no longer there. How to pass the data when activity gets started again.
-
-What will happen if running service is started again?
-
-AsyncTask - how many threads will get created if task.execute() methods calls in a for loop 1000 times.
+# Que 153: AsyncTask - how many threads will get created if task.execute() methods calls in a for loop 1000 times.
