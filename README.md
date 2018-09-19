@@ -47,7 +47,8 @@ Ans - Java 8 interface changes include static methods and default methods in int
 # Que 18: What is Material Design? Which components you have used?
 
 # Que 19: Difference between RecyclerView and ListView?
-Ans - https://developer.android.com/guide/topics/ui/layout/recyclerview
+Ans - https://medium.com/@manuaravindpta/what-is-the-difference-between-listview-and-recyclerview-bcd82c64ffbb
+https://developer.android.com/guide/topics/ui/layout/recyclerview
 http://www.vogella.com/tutorials/AndroidRecyclerView/article.html
 # Que 20: Asked to design simple layout for given UI? Question was based on LinearLayout weight distribution.
 
