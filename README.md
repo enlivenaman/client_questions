@@ -318,3 +318,28 @@ Whether to use Observers or Interfaces ? use cases ?
 # Que 152: What will happen if running service is started again?
 
 # Que 153: AsyncTask - how many threads will get created if task.execute() methods calls in a for loop 1000 times.
+
+# Que 154: Draw your last projects architecture and explain it in detail
+
+# Que 155: On architecture why you write this code in this layer, these type of tricky questions
+# Que 156: Activity launch mode's scenario based questions and how to pass data in it
+# Que 157: Difference between Single Task & Single Instance
+# Que 158: How to make custom view's in Android and write syntax fo the same
+# Que 159: How you do data binding in Android  and write code
+# Que 160: What is dependency injection in Android
+# Que 161: Why you think that Dagger 2 is advantages instead we can achieve this functionalities by using our custom codes as well.
+
+# kotlin questions
+
+1. Kotlin language features
+2. Why you prefers kotlin for Android development
+3. Write code for Extension Functions
+4. How kotlin detects your extension functions and provide to use in detail
+5. Write code for how to use Elvis operator
+6. Write Singleton class in kotlin
+7. What is multi threading locking mechanism in kotlin
+8. What is the instance level and class level locking and what area will be accessible for another thread
+9. Why kotlin provided data classes but we can achieve that thing in java by using all fields public
+10. Companion object and object class
+11. How to make static inner classes like java in kotlin (Tricky questions on static)
+
